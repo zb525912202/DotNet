@@ -1,0 +1,5 @@
+E:\codes\Infra\Infra\bin\Debug\Infra.exe.config
+E:\codes\Infra\Infra\bin\Debug\Infra.exe
+E:\codes\Infra\Infra\bin\Debug\Infra.pdb
+E:\codes\Infra\Infra\obj\Debug\Infra.exe
+E:\codes\Infra\Infra\obj\Debug\Infra.pdb
