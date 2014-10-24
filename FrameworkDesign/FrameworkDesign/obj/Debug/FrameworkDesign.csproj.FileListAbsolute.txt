@@ -1,0 +1,5 @@
+E:\codes\FrameworkDesign\FrameworkDesign\bin\Debug\FrameworkDesign.exe
+E:\codes\FrameworkDesign\FrameworkDesign\bin\Debug\FrameworkDesign.pdb
+E:\codes\FrameworkDesign\FrameworkDesign\obj\Debug\FrameworkDesign.csprojResolveAssemblyReference.cache
+E:\codes\FrameworkDesign\FrameworkDesign\obj\Debug\FrameworkDesign.exe
+E:\codes\FrameworkDesign\FrameworkDesign\obj\Debug\FrameworkDesign.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="433dd06c-dbbe-4f39-914d-1f95575658fe" name="Administrator@ALGER 2014-07-02 19:32:44" runUser="ALGER\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="7a925590-8fc8-442e-b524-d87cd99dc2ad">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_ALGER 2014-07-02 19_32_44">
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\OWC10Chart.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\MySql.Data.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\System.Data.SQLite.DLL" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\itextsharp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-07-02T19:32:44.2855084+08:00" queuing="2014-07-02T19:32:45.4505750+08:00" start="2014-07-02T19:32:45.5495807+08:00" finish="2014-07-02T19:32:49.9968350+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ALGER" outcome="Warning" timestamp="2014-07-02T19:32:44.2985091+08:00">
+        <Text>当前已禁用部署。未部署测试“DotNet.Utilities.Test.ConvertJsonTest.String2JsonTest”中的部署项“DotNet.Utilities.dll”。</Text>
+      </RunInfo>
+      <RunInfo computerName="ALGER" outcome="Error" timestamp="2014-07-02T19:32:49.9958350+08:00">
+        <Text>测试宿主进程意外退出。</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="String2JsonTest" storage="d:\documents\开发资料\技术资料\mycodes\c#\dotnet.utilities\dotnet.utilities.test\bin\debug\dotnet.utilities.test.dll" id="4939c15a-d19c-71f9-545d-b507d18e97f8">
+      <DeploymentItems>
+        <DeploymentItem filename="DotNet.Utilities.dll" />
+      </DeploymentItems>
+      <Execution id="f8d85c67-3f12-4922-a5ec-f1f5c3c487ac" />
+      <TestMethod codeBase="D:/Documents/开发资料/技术资料/MyCodes/c#/DotNet.Utilities/DotNet.Utilities.Test/bin/Debug/DotNet.Utilities.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DotNet.Utilities.Test.ConvertJsonTest, DotNet.Utilities.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="String2JsonTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4939c15a-d19c-71f9-545d-b507d18e97f8" executionId="f8d85c67-3f12-4922-a5ec-f1f5c3c487ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f8d85c67-3f12-4922-a5ec-f1f5c3c487ac" testId="4939c15a-d19c-71f9-545d-b507d18e97f8" testName="String2JsonTest" computerName="ALGER" duration="00:00:04.3592493" startTime="2014-07-02T19:32:45.6375857+08:00" endTime="2014-07-02T19:32:49.9968350+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8d85c67-3f12-4922-a5ec-f1f5c3c487ac">
+    </UnitTestResult>
+  </Results>
+</TestRun>

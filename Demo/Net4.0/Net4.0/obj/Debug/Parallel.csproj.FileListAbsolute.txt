@@ -1,0 +1,1 @@
+D:\GitHub\DotNet\Net4.0\Net4.0\bin\Debug\Parallel.exe.config

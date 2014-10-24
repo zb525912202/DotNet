@@ -1,0 +1,8 @@
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\bin\Debug\DongBlog.Test.dll
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\bin\Debug\DongBlog.Test.pdb
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\bin\Debug\YD.dll
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\bin\Debug\YD.pdb
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\bin\Debug\YD.xml
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\obj\Debug\DongBlog.Test.dll
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\DongBlog.Test\obj\Debug\DongBlog.Test.pdb

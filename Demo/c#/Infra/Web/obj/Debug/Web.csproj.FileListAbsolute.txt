@@ -1,0 +1,5 @@
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Web\bin\Web.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Web\bin\Web.pdb
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Web\obj\Debug\Web.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Web\obj\Debug\Web.pdb

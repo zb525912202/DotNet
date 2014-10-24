@@ -1,0 +1,5 @@
+E:\codes\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe
+E:\codes\TypeConvert\TypeConvert\bin\Debug\TypeConvert.pdb
+E:\codes\TypeConvert\TypeConvert\obj\Debug\TypeConvert.csprojResolveAssemblyReference.cache
+E:\codes\TypeConvert\TypeConvert\obj\Debug\TypeConvert.exe
+E:\codes\TypeConvert\TypeConvert\obj\Debug\TypeConvert.pdb

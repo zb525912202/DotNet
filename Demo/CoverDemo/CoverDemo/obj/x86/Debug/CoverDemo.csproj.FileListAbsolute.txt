@@ -1,0 +1,4 @@
+D:\GitHub\DotNet\Demo\CoverDemo\CoverDemo\bin\Debug\CoverDemo.exe
+D:\GitHub\DotNet\Demo\CoverDemo\CoverDemo\bin\Debug\CoverDemo.pdb
+D:\GitHub\DotNet\Demo\CoverDemo\CoverDemo\obj\x86\Debug\CoverDemo.exe
+D:\GitHub\DotNet\Demo\CoverDemo\CoverDemo\obj\x86\Debug\CoverDemo.pdb

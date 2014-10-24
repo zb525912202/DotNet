@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6a2a2320-f94d-4237-8790-40547801646b" name="Administrator@ALGER 2014-07-02 19:42:19" runUser="ALGER\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="7a925590-8fc8-442e-b524-d87cd99dc2ad">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_ALGER 2014-07-02 19_42_19">
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\OWC10Chart.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\MySql.Data.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\System.Data.SQLite.DLL" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\itextsharp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-07-02T19:42:19.4894082+08:00" queuing="2014-07-02T19:42:20.3584579+08:00" start="2014-07-02T19:42:20.4534633+08:00" finish="2014-07-02T19:42:52.3522878+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="ALGER" outcome="Error" timestamp="2014-07-02T19:42:52.3512877+08:00">
+        <Text>测试宿主进程意外退出。</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ToJsonTest" storage="d:\documents\开发资料\技术资料\mycodes\c#\dotnet.utilities\dotnet.utilities.test\bin\debug\dotnet.utilities.test.dll" id="d3a74689-dd58-32cc-5971-9d55e8dff7e5">
+      <Execution id="e11c0acf-ed4d-4100-bc6c-d5374c94f734" />
+      <TestMethod codeBase="D:/Documents/开发资料/技术资料/MyCodes/c#/DotNet.Utilities/DotNet.Utilities.Test/bin/Debug/DotNet.Utilities.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DotNet.Utilities.Test.ConvertJsonTest, DotNet.Utilities.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToJsonTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d3a74689-dd58-32cc-5971-9d55e8dff7e5" executionId="e11c0acf-ed4d-4100-bc6c-d5374c94f734" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e11c0acf-ed4d-4100-bc6c-d5374c94f734" testId="d3a74689-dd58-32cc-5971-9d55e8dff7e5" testName="ToJsonTest" computerName="ALGER" duration="00:00:31.7958186" startTime="2014-07-02T19:42:20.5564692+08:00" endTime="2014-07-02T19:42:52.3522878+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e11c0acf-ed4d-4100-bc6c-d5374c94f734">
+    </UnitTestResult>
+  </Results>
+</TestRun>

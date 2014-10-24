@@ -1,0 +1,5 @@
+D:\GitHub\DotNet\DPVisitor\DPVisitor\bin\Debug\DPVisitor.exe
+D:\GitHub\DotNet\DPVisitor\DPVisitor\bin\Debug\DPVisitor.pdb
+D:\GitHub\DotNet\DPVisitor\DPVisitor\obj\Debug\ResolveAssemblyReference.cache
+D:\GitHub\DotNet\DPVisitor\DPVisitor\obj\Debug\DPVisitor.exe
+D:\GitHub\DotNet\DPVisitor\DPVisitor\obj\Debug\DPVisitor.pdb

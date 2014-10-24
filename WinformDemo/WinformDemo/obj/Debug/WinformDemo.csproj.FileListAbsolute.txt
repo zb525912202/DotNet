@@ -1,0 +1,7 @@
+D:\GitHub\DotNet\WinformDemo\WinformDemo\bin\Debug\WinformDemo.exe
+D:\GitHub\DotNet\WinformDemo\WinformDemo\bin\Debug\WinformDemo.pdb
+D:\GitHub\DotNet\WinformDemo\WinformDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\GitHub\DotNet\WinformDemo\WinformDemo\obj\Debug\WinformDemo.Properties.Resources.resources
+D:\GitHub\DotNet\WinformDemo\WinformDemo\obj\Debug\WinformDemo.csproj.GenerateResource.Cache
+D:\GitHub\DotNet\WinformDemo\WinformDemo\obj\Debug\WinformDemo.exe
+D:\GitHub\DotNet\WinformDemo\WinformDemo\obj\Debug\WinformDemo.pdb

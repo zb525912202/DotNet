@@ -1,0 +1,16 @@
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities.Test.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities.Test.pdb
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\itextsharp.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\Maticsoft.DBUtility.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\MySql.Data.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\OWC10Chart.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\System.Data.SQLite.DLL
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities.pdb
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities.xml
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities_Accessor.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\bin\Debug\DotNet.Utilities_Accessor.pdb
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\obj\Debug\DotNet.Utilities.Test.csprojResolveAssemblyReference.cache
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\obj\Debug\DotNet.Utilities.Test.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\obj\Debug\DotNet.Utilities.Test.pdb

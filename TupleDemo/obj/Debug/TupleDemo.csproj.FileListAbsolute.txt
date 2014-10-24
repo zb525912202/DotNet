@@ -1,0 +1,5 @@
+E:\codes\TupleDemo\obj\Debug\TupleDemo.csprojResolveAssemblyReference.cache
+E:\codes\TupleDemo\bin\Debug\TupleDemo.exe
+E:\codes\TupleDemo\bin\Debug\TupleDemo.pdb
+E:\codes\TupleDemo\obj\Debug\TupleDemo.exe
+E:\codes\TupleDemo\obj\Debug\TupleDemo.pdb

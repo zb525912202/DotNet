@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YD", "YD\YD.csproj", "{EBEFCCA9-931D-4461-8CF7-E1C49CE17DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DongBlog.Test", "DongBlog.Test\DongBlog.Test.csproj", "{302F72C6-D9EA-4ABF-ABB6-4A182E38395D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F677CCB-CBB3-474C-8B2B-E6FAAC50697F}"
+	ProjectSection(SolutionItems) = preProject
+		DongBlog.vsmdi = DongBlog.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DongBlog.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEFCCA9-931D-4461-8CF7-E1C49CE17DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEFCCA9-931D-4461-8CF7-E1C49CE17DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEFCCA9-931D-4461-8CF7-E1C49CE17DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEFCCA9-931D-4461-8CF7-E1C49CE17DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302F72C6-D9EA-4ABF-ABB6-4A182E38395D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302F72C6-D9EA-4ABF-ABB6-4A182E38395D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302F72C6-D9EA-4ABF-ABB6-4A182E38395D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302F72C6-D9EA-4ABF-ABB6-4A182E38395D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

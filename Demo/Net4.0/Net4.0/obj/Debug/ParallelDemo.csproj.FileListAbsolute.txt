@@ -1,0 +1,6 @@
+D:\GitHub\DotNet\Net4.0\Net4.0\bin\Debug\ParallelDemo.exe.config
+D:\GitHub\DotNet\Net4.0\Net4.0\bin\Debug\ParallelDemo.exe
+D:\GitHub\DotNet\Net4.0\Net4.0\bin\Debug\ParallelDemo.pdb
+D:\GitHub\DotNet\Net4.0\Net4.0\obj\Debug\ParallelDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\DotNet\Net4.0\Net4.0\obj\Debug\ParallelDemo.exe
+D:\GitHub\DotNet\Net4.0\Net4.0\obj\Debug\ParallelDemo.pdb

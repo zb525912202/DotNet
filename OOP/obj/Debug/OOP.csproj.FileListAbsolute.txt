@@ -1,0 +1,5 @@
+E:\codes\OOP\bin\Debug\OOP.exe
+E:\codes\OOP\bin\Debug\OOP.pdb
+E:\codes\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+E:\codes\OOP\obj\Debug\OOP.exe
+E:\codes\OOP\obj\Debug\OOP.pdb

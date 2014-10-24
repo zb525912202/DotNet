@@ -1,0 +1,6 @@
+D:\Documents\开发资料\技术资料\MyCodes\VS2013WebDemo\VS2013WebDemo\bin\VS2013WebDemo.dll.config
+D:\Documents\开发资料\技术资料\MyCodes\VS2013WebDemo\VS2013WebDemo\bin\VS2013WebDemo.dll
+D:\Documents\开发资料\技术资料\MyCodes\VS2013WebDemo\VS2013WebDemo\bin\VS2013WebDemo.pdb
+D:\Documents\开发资料\技术资料\MyCodes\VS2013WebDemo\VS2013WebDemo\obj\Debug\VS2013WebDemo.csprojResolveAssemblyReference.cache
+D:\Documents\开发资料\技术资料\MyCodes\VS2013WebDemo\VS2013WebDemo\obj\Debug\VS2013WebDemo.dll
+D:\Documents\开发资料\技术资料\MyCodes\VS2013WebDemo\VS2013WebDemo\obj\Debug\VS2013WebDemo.pdb

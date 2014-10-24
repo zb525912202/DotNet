@@ -1,0 +1,5 @@
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\MyWebService\bin\MyWebService.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\MyWebService\bin\MyWebService.pdb
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\MyWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\MyWebService\obj\Debug\MyWebService.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\MyWebService\obj\Debug\MyWebService.pdb

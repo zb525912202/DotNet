@@ -1,0 +1,5 @@
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Infra\bin\Debug\zhang.Infra.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Infra\bin\Debug\zhang.Infra.pdb
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Infra\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Infra\obj\Debug\zhang.Infra.dll
+D:\Documents\开发资料\技术资料\MyCodes\c#\Infra\Infra\obj\Debug\zhang.Infra.pdb

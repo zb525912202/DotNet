@@ -1,0 +1,4 @@
+D:\Documents\开发资料\技术资料\MyCodes\T4TemplateDemo\T4TemplateDemo\bin\Debug\T4TemplateDemo.exe
+D:\Documents\开发资料\技术资料\MyCodes\T4TemplateDemo\T4TemplateDemo\bin\Debug\T4TemplateDemo.pdb
+D:\Documents\开发资料\技术资料\MyCodes\T4TemplateDemo\T4TemplateDemo\obj\x86\Debug\T4TemplateDemo.exe
+D:\Documents\开发资料\技术资料\MyCodes\T4TemplateDemo\T4TemplateDemo\obj\x86\Debug\T4TemplateDemo.pdb

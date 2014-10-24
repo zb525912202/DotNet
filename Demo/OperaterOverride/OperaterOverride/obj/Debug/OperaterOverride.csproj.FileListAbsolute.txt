@@ -1,0 +1,6 @@
+D:\Documents\开发资料\技术资料\MyCodes\OperaterOverride\OperaterOverride\bin\Debug\OperaterOverride.exe.config
+D:\Documents\开发资料\技术资料\MyCodes\OperaterOverride\OperaterOverride\bin\Debug\OperaterOverride.exe
+D:\Documents\开发资料\技术资料\MyCodes\OperaterOverride\OperaterOverride\bin\Debug\OperaterOverride.pdb
+D:\Documents\开发资料\技术资料\MyCodes\OperaterOverride\OperaterOverride\obj\Debug\OperaterOverride.csprojResolveAssemblyReference.cache
+D:\Documents\开发资料\技术资料\MyCodes\OperaterOverride\OperaterOverride\obj\Debug\OperaterOverride.exe
+D:\Documents\开发资料\技术资料\MyCodes\OperaterOverride\OperaterOverride\obj\Debug\OperaterOverride.pdb

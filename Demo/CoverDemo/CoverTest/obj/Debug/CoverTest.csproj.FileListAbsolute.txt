@@ -1,0 +1,7 @@
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\bin\Debug\CoverTest.dll
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\bin\Debug\CoverTest.pdb
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\bin\Debug\CoverDemo.exe
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\bin\Debug\CoverDemo.pdb
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\obj\Debug\CoverTest.csprojResolveAssemblyReference.cache
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\obj\Debug\CoverTest.dll
+D:\GitHub\DotNet\Demo\CoverDemo\CoverTest\obj\Debug\CoverTest.pdb

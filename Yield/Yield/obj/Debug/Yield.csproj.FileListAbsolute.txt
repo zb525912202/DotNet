@@ -1,0 +1,5 @@
+E:\codes\Yield\Yield\bin\Debug\Yield.exe
+E:\codes\Yield\Yield\bin\Debug\Yield.pdb
+E:\codes\Yield\Yield\obj\Debug\Yield.csprojResolveAssemblyReference.cache
+E:\codes\Yield\Yield\obj\Debug\Yield.exe
+E:\codes\Yield\Yield\obj\Debug\Yield.pdb

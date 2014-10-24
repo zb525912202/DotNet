@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="645aea7b-d705-40f0-8127-ea1a0a205243" name="Administrator@ALGER 2014-07-02 19:43:19" runUser="ALGER\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="7a925590-8fc8-442e-b524-d87cd99dc2ad">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_ALGER 2014-07-02 19_43_19">
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\OWC10Chart.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\MySql.Data.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\System.Data.SQLite.DLL" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll" />
+      <DeploymentItem filename="D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\bin\Debug\itextsharp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-07-02T19:43:19.1688216+08:00" queuing="2014-07-02T19:43:19.9938688+08:00" start="2014-07-02T19:43:20.1068753+08:00" finish="2014-07-02T19:44:03.5153581+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ToJsonTest" storage="d:\documents\开发资料\技术资料\mycodes\c#\dotnet.utilities\dotnet.utilities.test\bin\debug\dotnet.utilities.test.dll" id="d3a74689-dd58-32cc-5971-9d55e8dff7e5">
+      <Execution id="905b08cd-5f89-4b58-9253-06bf91ba4033" />
+      <TestMethod codeBase="D:/Documents/开发资料/技术资料/MyCodes/c#/DotNet.Utilities/DotNet.Utilities.Test/bin/Debug/DotNet.Utilities.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DotNet.Utilities.Test.ConvertJsonTest, DotNet.Utilities.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToJsonTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d3a74689-dd58-32cc-5971-9d55e8dff7e5" executionId="905b08cd-5f89-4b58-9253-06bf91ba4033" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="905b08cd-5f89-4b58-9253-06bf91ba4033" testId="d3a74689-dd58-32cc-5971-9d55e8dff7e5" testName="ToJsonTest" computerName="ALGER" duration="00:00:42.0374162" startTime="2014-07-02T19:43:20.2058809+08:00" endTime="2014-07-02T19:44:03.3813504+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="905b08cd-5f89-4b58-9253-06bf91ba4033">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 DotNet.Utilities.Test.ConvertJsonTest.ToJsonTest 引发了异常: 
+System.ArgumentOutOfRangeException: 索引和计数必须引用该字符串内的位置。
+参数名: count</Message>
+          <StackTrace>    在 System.String.RemoveInternal(Int32 startIndex, Int32 count)
+   在 System.String.Remove(Int32 startIndex, Int32 count)
+   在 DotNet.Utilities.ConvertJson.ToJson(IEnumerable array) 位置 D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\Json\ConvertJson.cs:行号 178
+   在 DotNet.Utilities.ConvertJson.ToJson(Object jsonObject) 位置 D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\Json\ConvertJson.cs:行号 148
+   在 DotNet.Utilities.Test.ConvertJsonTest.ToJsonTest() 位置 D:\Documents\开发资料\技术资料\MyCodes\c#\DotNet.Utilities\DotNet.Utilities.Test\ConvertJsonTest.cs:行号 96
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

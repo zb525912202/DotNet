@@ -1,0 +1,11 @@
+F:\Work\Project\Srims\Solution\SrimsV4\YD\bin\Debug\YD.dll
+F:\Work\Project\Srims\Solution\SrimsV4\YD\bin\Debug\YD.pdb
+F:\Work\Project\Srims\Solution\SrimsV4\YD\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Project\Srims\Solution\SrimsV4\YD\obj\Debug\YD.dll
+F:\Work\Project\Srims\Solution\SrimsV4\YD\obj\Debug\YD.pdb
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\YD\bin\Debug\YD.XML
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\YD\bin\Debug\YD.dll
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\YD\bin\Debug\YD.pdb
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\YD\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\YD\obj\Debug\YD.dll
+F:\Work\Project\写作项目\20080501微型项目最佳实践\DongBlog\YD\obj\Debug\YD.pdb

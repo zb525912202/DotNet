@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{2278B6B7-72A7-4397-BD5B-CE479644E79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebService", "MyWebService\MyWebService.csproj", "{88F1F4AD-CE5E-42F2-9CF0-DF2B53324AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{468F18BC-1BF7-443E-8264-84C3435C3242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2278B6B7-72A7-4397-BD5B-CE479644E79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2278B6B7-72A7-4397-BD5B-CE479644E79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2278B6B7-72A7-4397-BD5B-CE479644E79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2278B6B7-72A7-4397-BD5B-CE479644E79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F1F4AD-CE5E-42F2-9CF0-DF2B53324AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F1F4AD-CE5E-42F2-9CF0-DF2B53324AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F1F4AD-CE5E-42F2-9CF0-DF2B53324AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F1F4AD-CE5E-42F2-9CF0-DF2B53324AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468F18BC-1BF7-443E-8264-84C3435C3242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468F18BC-1BF7-443E-8264-84C3435C3242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468F18BC-1BF7-443E-8264-84C3435C3242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468F18BC-1BF7-443E-8264-84C3435C3242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+E:\codes\NewDemo\bin\Debug\NewDemo.exe
+E:\codes\NewDemo\bin\Debug\NewDemo.pdb
+E:\codes\NewDemo\obj\Debug\NewDemo.csprojResolveAssemblyReference.cache
+E:\codes\NewDemo\obj\Debug\NewDemo.exe
+E:\codes\NewDemo\obj\Debug\NewDemo.pdb
