@@ -1,0 +1,5 @@
+D:\Documents\GitHub\NWebGather\src\Helper\bin\Debug\NWebGather.Helper.dll
+D:\Documents\GitHub\NWebGather\src\Helper\bin\Debug\NWebGather.Helper.pdb
+D:\Documents\GitHub\NWebGather\src\Helper\obj\Debug\NWebGather.Helper.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\NWebGather\src\Helper\obj\Debug\NWebGather.Helper.dll
+D:\Documents\GitHub\NWebGather\src\Helper\obj\Debug\NWebGather.Helper.pdb

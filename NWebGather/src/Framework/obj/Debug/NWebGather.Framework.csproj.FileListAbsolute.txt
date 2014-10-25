@@ -1,0 +1,7 @@
+D:\Documents\GitHub\NWebGather\src\Framework\bin\Debug\NWebGather.Framework.dll
+D:\Documents\GitHub\NWebGather\src\Framework\bin\Debug\NWebGather.Framework.pdb
+D:\Documents\GitHub\NWebGather\src\Framework\bin\Debug\NWebGather.Helper.dll
+D:\Documents\GitHub\NWebGather\src\Framework\bin\Debug\NWebGather.Helper.pdb
+D:\Documents\GitHub\NWebGather\src\Framework\obj\Debug\NWebGather.Framework.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\NWebGather\src\Framework\obj\Debug\NWebGather.Framework.dll
+D:\Documents\GitHub\NWebGather\src\Framework\obj\Debug\NWebGather.Framework.pdb

@@ -1,0 +1,28 @@
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.exe.config
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\HtmlFormatConfig.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\path.txt
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\9ria新闻资讯 - 9ria.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\刘仰博客 - 新浪.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\博客园新闻 - 博客园.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\博客园知识库-程序人生 - 博客园.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\博客园知识库-项目管理 - 博客园.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\孔庆东博客 - 新浪.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\Config\task\扒皮水浒：水泊梁山无好汉 - 天涯.xml
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.exe
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.pdb
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.Framework.dll
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.Helper.dll
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.Framework.pdb
+D:\Documents\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.Helper.pdb
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.FrmAbout.resources
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.FrmFormatConfig.resources
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.FrmGatherWorker.resources
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.MDIParentMain.resources
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.Properties.Resources.resources
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.Forms.csproj.GenerateResource.Cache
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.exe
+D:\Documents\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.pdb
+D:\GitHub\NWebGather\src\Forms\bin\Debug\NWebGather.exe.config
+D:\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.exe
+D:\GitHub\NWebGather\src\Forms\obj\Debug\NWebGather.pdb
