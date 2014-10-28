@@ -1,0 +1,5 @@
+d:\GitHub\DotNet\AuthDemo\AuthDemo\bin\AuthDemo.dll
+d:\GitHub\DotNet\AuthDemo\AuthDemo\bin\AuthDemo.pdb
+d:\GitHub\DotNet\AuthDemo\AuthDemo\obj\Debug\ResolveAssemblyReference.cache
+d:\GitHub\DotNet\AuthDemo\AuthDemo\obj\Debug\AuthDemo.dll
+d:\GitHub\DotNet\AuthDemo\AuthDemo\obj\Debug\AuthDemo.pdb

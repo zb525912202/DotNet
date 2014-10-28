@@ -66,6 +66,7 @@
     <Compile Include="Cookie&amp;Session&amp;Cache\SessionHelper2.cs" />
     <Compile Include="CSV\CsvHelper.cs" />
     <Compile Include="DEncrypt\MySecurity.cs" />
+    <Compile Include="Extensions\StringExt.cs" />
     <Compile Include="Internet&amp;Url\AdslHelper.cs" />
     <Compile Include="Validate&amp;Tool\FormulaExpress.cs" />
     <Compile Include="FTP\FTPClient.cs" />
@@ -261,7 +262,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Debug\" />
-    <Folder Include="Extensions\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
